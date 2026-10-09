@@ -1,4 +1,4 @@
-# PaperInsight-an-AI-teaching-assistant-for-research-papers
+
 # PaperInsight: AI Teaching Assistant for Research Papers
 
 Upload research papers (PDF) and learn them with an AI that explains like a teacher, while staying grounded in the paper with page citations.
